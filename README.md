@@ -1,4 +1,6 @@
-# GitLens &mdash; Supercharge Git in VS Code
+# GitLens &mdash; Supercharge Git in Logos
+
+This project will be migrated to Logos' WASM extension standard, becoming the first first-party ported plugin (which makes Microsoft's responsibility even greater).
 
 > Supercharge Git and unlock **untapped knowledge** within your repo to better **understand**, **write**, and **review** code. Focus, collaborate, accelerate.
 
